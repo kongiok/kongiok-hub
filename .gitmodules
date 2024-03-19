@@ -1,0 +1,6 @@
+[submodule "630.00-documents"]
+	path = 630.00-documents
+	url = git@github.com:kongiok/kongiok.git
+[submodule "630.10-main"]
+	path = 630.10-main
+	url = git@github.com:kongiok/kongiok-protal.git
